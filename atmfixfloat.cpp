@@ -28,3 +28,4 @@ int main(){
             // << std::setprecision((modf(b, &mod) != 0.0) ? 2 : 0)
             // << avg
             // << std::endl;
+// why can't i use '%' in float 
