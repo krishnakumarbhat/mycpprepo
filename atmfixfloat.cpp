@@ -6,7 +6,7 @@ int main(){
 	double b,c;
 	cin>>a>>b;
 	c =b-a-0.5;
-	if (a%5== 0 & (b>a)){
+	if ((a%5== 0) && (b>a)){
 
 	if (b>a){
 		cout<<c<<endl;
@@ -29,3 +29,4 @@ int main(){
             // << avg
             // << std::endl;
 // why can't i use '%' in float 
+
