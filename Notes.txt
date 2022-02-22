@@ -1,0 +1,8 @@
+overflow and pressetion in  int ,real ,float and double
+comparitor == and < ,> and && for int and & for binary 
+also int ahas rnage of 10^4=
+scope(local) and global variable
+also contune judt skip one step but break wiil remove it from loop
+char cant take 1+ character so we take sting in that case and it is same as python
+str[0] is a charter and so it can't take "a" it can only take 'a'
+
