@@ -5,4 +5,6 @@ scope(local) and global variable
 also contune judt skip one step but break wiil remove it from loop
 char cant take 1+ character so we take sting in that case and it is same as python
 str[0] is a charter and so it can't take "a" it can only take 'a'
+using  getline to take input example of space and cursor and diffrence bet cin and getline
+also cin.ignore()
 
