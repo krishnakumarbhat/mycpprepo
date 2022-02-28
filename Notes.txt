@@ -7,4 +7,11 @@ char cant take 1+ character so we take sting in that case and it is same as pyth
 str[0] is a charter and so it can't take "a" it can only take 'a'
 using  getline to take input example of space and cursor and diffrence bet cin and getline
 also cin.ignore()
+usonfg s.pushback will have O(1) where as doe  s+'f' will have O(s.size())
+what is iterration? it's 3 line in code is 3 iterration and for loop one loop will have 3*n if 3 iter in loop so 10^7-1 second  iter in online compiler 
+
+
+
+
+
 
