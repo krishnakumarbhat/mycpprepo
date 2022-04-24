@@ -1,4 +1,4 @@
-overflow and pressetion in  int ,real ,float and double
+overflow and presention in  int ,real ,float and double
 comparitor == and < ,> and && for int and & for binary 
 also int ahas rnage of 10^4=
 scope(local) and global variable
@@ -9,7 +9,17 @@ using  getline to take input example of space and cursor and diffrence bet cin a
 also cin.ignore()
 usonfg s.pushback will have O(1) where as doe  s+'f' will have O(s.size())
 what is iterration? it's 3 line in code is 3 iterration and for loop one loop will have 3*n if 3 iter in loop so 10^7-1 second  iter in online compiler 
-
+array will have 10^5*(le5) limit so it will show segmentation error
+kernal(no read and write which result in sementation fault )
+stack(hasd size limit eg 8mb)
+memory segment (file mapping and anonymous mapping)
+heap
+bss segment(unlisted static variable 
+data segmen(stastic variable initialized by programe)
+text segment(stores the binary image of the process)
+void means return nothing
+and return means compiled sucess and it will be their in int (function) main 
+arrays always pass in reference and don't use or pass 2d arrry directly and in comitative programming use global variable
 
 
 
